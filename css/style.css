@@ -62,6 +62,11 @@ img {
     /* Resizes the image to cover the entire container */
 }
 
+i {
+    display: inline-block;
+    margin-right: 1em;
+  }
+
 .container {
     text-align: center;
     width: 100%;    
